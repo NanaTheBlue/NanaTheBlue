@@ -6,7 +6,7 @@ I design and build full-stack web applications, real-time backend systems, and c
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 - **Languages:** Go, TypeScript, C#, Python, JavaScript, SQL, PHP
 - **Backend & Networking:** ASP.NET Core, Node.js, Custom Binary TCP Protocols, WebSockets, gRPC, REST APIs
@@ -16,7 +16,7 @@ I design and build full-stack web applications, real-time backend systems, and c
 
 ---
 
-### 🚀 Featured Systems & Applications
+### Featured Systems & Applications
 
 #### 🔹 [Backtrack](https://github.com/NanaTheBlue/Backtrack) — *Custom Binary TCP Chat Server*
 `Go` · `TCP Sockets` · `Binary Protocol` · `Concurrency`
@@ -39,7 +39,7 @@ I design and build full-stack web applications, real-time backend systems, and c
 
 ---
 
-### 🎓 Education & Certifications
+### Education & Certifications
 
 - **B.S. in Software Engineering** — Western Governors University
 - **AWS Certified Cloud Practitioner** — Amazon Web Services
