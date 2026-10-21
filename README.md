@@ -34,7 +34,7 @@ I design and build full-stack web applications, real-time backend systems, and c
 - Leveraged **Redis** for low latency state coordination and **PostgreSQL** for persistent relational data across containerized cloud instances.
 
 #### 🔹 [Sca](https://github.com/NanaTheBlue/sca) — *Real-Time Messaging Application*
-`Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Redis` · `AWS Elastic Beanstalk`
+`React` · `TypeScript` · `PostgreSQL` · `Redis` · `AWS Elastic Beanstalk`
 - Built a full-stack real-time messaging platform featuring live channel updates, persistent message history, and session caching.
 
 ---
